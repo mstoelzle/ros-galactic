@@ -1,0 +1,16 @@
+ros-galactic-moveit-ros-planning
+ros-galactic-moveit-plugins
+ros-galactic-moveit-kinematics
+ros-galactic-moveit-ros-warehouse
+ros-galactic-moveit-planners-ompl
+ros-galactic-moveit-ros-robot-interaction
+ros-galactic-moveit-ros-move-group
+ros-galactic-moveit-ros-benchmarks
+ros-galactic-moveit-resources-prbt-moveit-config
+ros-galactic-moveit-ros-planning-interface
+ros-galactic-moveit-resources-prbt-pg70-support
+ros-galactic-moveit-ros-visualization
+ros-galactic-pilz-industrial-motion-planner
+ros-galactic-moveit-ros
+ros-galactic-moveit-planners
+ros-galactic-moveit
